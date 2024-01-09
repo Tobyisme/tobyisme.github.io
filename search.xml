@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>成果發表會</title>
+    <url>/show/</url>
+    <content><![CDATA[<h1 id="成果發表會"><a href="#成果發表會" class="headerlink" title="成果發表會"></a>成果發表會</h1><span id="more"></span>
+
+<h1 id="還沒打啦"><a href="#還沒打啦" class="headerlink" title="還沒打啦"></a>還沒打啦</h1><div class="gallery-container" data-type="data" data-button="">
+      <div class="gallery-data">[{"url":"https://i.imgur.com/PDD10OG.jpg","alt":""},{"url":"https://i.imgur.com/ZmehiGl.jpg","alt":""},{"url":"https://i.imgur.com/jmUy9mO.jpg","alt":""},{"url":"https://i.imgur.com/zv6NNU5.jpg","alt":""},{"url":"https://i.imgur.com/9ovsJVV.jpg","alt":""}]</div>
+      <div class="gallery-items">
+      </div>
+    </div>
+]]></content>
+      <categories>
+        <category>拍攝</category>
+      </categories>
+      <tags>
+        <tag>photo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>資源</title>
+    <url>/sorce/</url>
+    <content><![CDATA[<div class="note info flat"><h2 id="一些網址"><a href="#一些網址" class="headerlink" title="一些網址"></a>一些網址</h2></div>
+
+<span id="more"></span>
+
+<h1 id="筆記"><a href="#筆記" class="headerlink" title="筆記"></a>筆記</h1><h3 id="選擇結構"><a href="#選擇結構" class="headerlink" title="選擇結構"></a>選擇結構</h3><ul>
+<li><a href="/grw4fuJARdC6gXQ-LTliRQ">關係運算子 Relational Operator</a></li>
+<li><a href="/ro6jXTtATAatF_yKBE7_2A">選擇結構 if-else</a></li>
+<li><a href="/ulV1bAeZQ0y-1Fzbk4cJIw">巢狀選擇結構</a></li>
+<li><a href="/o3TXJ7P6RiqQbQvc81Sejg">邏輯運算子 Logical Operator</a><ul>
+<li>補充：一些常見邏輯性質</li>
+</ul>
+</li>
+<li><a href="/CKN8nV0kTtiLzqkW4rIngA">條件運算子 Conditional Operator</a></li>
+<li><a href="/tOjMHrW5TIi3DDMM5Tf-yg">布林值 Boolean</a><ul>
+<li>補充：條件不是 true or false</li>
+</ul>
+</li>
+<li><a href="/B_1AfUtPSIijmuKMnbsX9Q">switch-case</a></li>
+<li><a href="/pC30WyQ9RLm5Tzt4JqdEwA">Operator Precedence</a></li>
+</ul>
+<h2 id="報名"><a href="#報名" class="headerlink" title="報名"></a>報名</h2><h4 id="切記不要忘記報名！"><a href="#切記不要忘記報名！" class="headerlink" title="切記不要忘記報名！"></a>切記不要忘記報名！</h4><ul>
+<li><strong><a href="https://apcs.csie.ntnu.edu.tw/">APCS 官網連結</a></strong></li>
+<li><strong><a href="https://yuihuang.com/K">Yui Huang 演算法筆記</a></strong></li>
+<li><strong><a href="https://hackmd.io/@LittlePants/Hyw_rueGK">從零開始的競程介紹 - HackMD</a></strong></li>
+</ul>
+<h2 id="程式設計題庫-OJ"><a href="#程式設計題庫-OJ" class="headerlink" title="程式設計題庫(OJ)"></a>程式設計題庫(OJ)</h2><ul>
+<li><strong><a href="https://neoj.sprout.tw/">資訊之芽 OJ</a></strong></li>
+<li><strong><a href="https://judge.csie.ncku.edu.tw/">NCKU (成大)</a></strong></li>
+<li><strong><a href="https://toj.tfcis.org/oj/info/">TNFSH (南一中)</a></strong></li>
+<li><strong><a href="https://tioj.ck.tp.edu.tw/">TIOJ (建中) *競賽題多</a></strong></li>
+<li><strong><a href="https://codeforces.com/">Codeforces (有定期賽)</a></strong></li>
+<li><strong><a href="https://judge.tcirc.tw/">TCFSH CIRC Judge (中一中)</a></strong></li>
+<li><strong><a href="https://zerojudge.tw/">ZeroJudge (ZJ)</a> || <a href="https://docs.google.com/spreadsheets/d/1m3PsJACKsJfFxSsRz2xE5zsaqTc6iBwp6l2Ml0tokBc/edit#gid=1468689738">ZJ 學習路徑題單</a></strong></li>
+<li><strong><a href="https://www.codechef.com/">CodeChef</a></strong></li>
+<li><strong><a href="https://atcoder.jp/home">atcoder.jp</a></strong></li>
+</ul>
+<h2 id="資訊安全比賽"><a href="#資訊安全比賽" class="headerlink" title="資訊安全比賽"></a>資訊安全比賽</h2><ul>
+<li><strong><a href="https://ais3.org/">AIS3</a></strong></li>
+<li><strong><a href="https://tcat2022.twisc.ncku.edu.tw/activities">T 貓盃</a></strong></li>
+<li><strong><a href="https://ais3.org/eof/">AIS3 EOF</a></strong></li>
+<li><strong><a href="https://ais3.org/mfctf/">MyFirstCTF</a></strong></li>
+<li><strong><a href="https://gics.tw/">尋找資安女婕思</a></strong></li>
+<li><strong><a href="https://csc.nics.nat.gov.tw/">資安技能金盾獎</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://ithelp.ithome.com.tw/articles/10204751">資安補帖</a></strong></li>
+</ul>
+]]></content>
+      <categories>
+        <category>教學文</category>
+      </categories>
+      <tags>
+        <tag>連結</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python 12/10 教學</title>
+    <url>/python/</url>
+    <content><![CDATA[<h1 id="12-10-教學"><a href="#12-10-教學" class="headerlink" title="12&#x2F;10 教學"></a>12&#x2F;10 教學</h1><div class="note info flat"><p>關於教一個北科大的故事</p>
+</div>
+
+<span id="more"></span>
+
+<h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><h3 id="基本輸出輸入"><a href="#基本輸出輸入" class="headerlink" title="基本輸出輸入"></a>基本輸出輸入</h3><ul>
+<li>Print and input</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">a = <span class="built_in">input</span>() <span class="comment"># a = 輸入進來的內容</span></span><br><span class="line"><span class="built_in">print</span>(a)    <span class="comment"># 輸出 a 的內容</span></span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>輸入</th>
+<th>輸出</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1210</td>
+<td>1210</td>
+</tr>
+<tr>
+<td>Today</td>
+<td>Today</td>
+</tr>
+<tr>
+<td>劉泓辰</td>
+<td>劉泓辰</td>
+</tr>
+</tbody></table>
+<hr>
+<h3 id="Functions-in-Python"><a href="#Functions-in-Python" class="headerlink" title="Functions in Python"></a>Functions in Python</h3><p>::: success<br>If one input results in two different outputs, then it’s not a function.<br>:::</p>
+<table>
+<thead>
+<tr>
+<th>Methods</th>
+<th>Name</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>abs()</td>
+<td>絕對值</td>
+</tr>
+<tr>
+<td>pow( x,y )</td>
+<td>次方</td>
+</tr>
+<tr>
+<td>max()</td>
+<td>最大值</td>
+</tr>
+<tr>
+<td>min()</td>
+<td>最小值</td>
+</tr>
+<tr>
+<td>round()</td>
+<td>四捨五入</td>
+</tr>
+</tbody></table>
+<ul>
+<li><h3 id="DataType-DataType"><a href="#DataType-DataType" class="headerlink" title="DataType -&gt; DataType"></a>DataType -&gt; DataType</h3><ul>
+<li>str()</li>
+<li>int()</li>
+<li>float()</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="資料型態"><a href="#資料型態" class="headerlink" title="資料型態"></a>資料型態</h3><table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Type</th>
+<th>中文</th>
+<th>Ex</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Integer</td>
+<td>int</td>
+<td>整數</td>
+<td>1,3,5,6</td>
+</tr>
+<tr>
+<td>Float</td>
+<td>float</td>
+<td>浮點數</td>
+<td>3.1415</td>
+</tr>
+<tr>
+<td>String</td>
+<td>str</td>
+<td>字串</td>
+<td>Today</td>
+</tr>
+<tr>
+<td>Boolean</td>
+<td>bool</td>
+<td>布林值</td>
+<td>True or False</td>
+</tr>
+<tr>
+<td>List</td>
+<td>list</td>
+<td>可變列表</td>
+<td>[“name”,2323,”Today”]</td>
+</tr>
+<tr>
+<td>Dictionaries</td>
+<td>dict</td>
+<td>字典</td>
+<td>{“Apple”:”蘋果”,”Banana”:”香蕉”}</td>
+</tr>
+<tr>
+<td>Tuples</td>
+<td>tup</td>
+<td>不可變列表</td>
+<td>(“one”,”two”,”three”)</td>
+</tr>
+<tr>
+<td>Sets</td>
+<td>set</td>
+<td>集合</td>
+<td>{2,5,4,3}</td>
+</tr>
+</tbody></table>
+<ul>
+<li><h3 id="變數宣告"><a href="#變數宣告" class="headerlink" title="變數宣告"></a>變數宣告</h3></li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">data = <span class="number">3</span>  <span class="comment">#變數=資料</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(data) <span class="comment">#輸出 3</span></span><br><span class="line"></span><br><span class="line">data = <span class="number">4</span>    <span class="comment">#變數會被覆蓋</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(data) <span class="comment">#輸出 4</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="運算"><a href="#運算" class="headerlink" title="運算"></a>運算</h3><ul>
+<li><h3 id="數字運算"><a href="#數字運算" class="headerlink" title="數字運算"></a>數字運算</h3></li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 加減乘除</span></span><br><span class="line">x = <span class="number">4</span></span><br><span class="line">x = x + <span class="number">1</span></span><br><span class="line"><span class="comment">#or</span></span><br><span class="line">x+=<span class="number">1</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="number">5</span> + <span class="number">1</span>)    <span class="comment"># 6</span></span><br><span class="line"><span class="built_in">print</span>(<span class="number">5</span> - <span class="number">1</span>)    <span class="comment"># 4</span></span><br><span class="line"><span class="built_in">print</span>(<span class="number">5</span> * <span class="number">2</span>)    <span class="comment"># 10</span></span><br><span class="line"><span class="built_in">print</span>(<span class="number">10</span> / <span class="number">3</span>)   <span class="comment"># 3</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 取餘數</span></span><br><span class="line"><span class="built_in">print</span>(<span class="number">10</span> % <span class="number">3</span>)   <span class="comment"># 1</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 次方數</span></span><br><span class="line"><span class="built_in">print</span>(<span class="number">2</span> ** <span class="number">3</span>)   <span class="comment"># 2 的三次方 8</span></span><br><span class="line"><span class="built_in">print</span>(<span class="number">3</span> ** <span class="number">3</span>)   <span class="comment"># 3 的三次方 27</span></span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p><code>&gt;= or &lt;= ==</code></p>
+</li>
+<li><h3 id="字串運算"><a href="#字串運算" class="headerlink" title="字串運算"></a>字串運算</h3><ul>
+<li><strong>&#x2F;n</strong> &#x3D; 換行</li>
+<li>每個字元都有一個編號 ~~後續陣列會提到~~~</li>
+</ul>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>H</th>
+<th>e</th>
+<th>l</th>
+<th>l</th>
+<th>o</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+</tbody></table>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">s = <span class="string">&quot;Hello&quot;</span>+<span class="string">&quot;World&quot;</span></span><br><span class="line"><span class="built_in">print</span>(s)</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">HelloWorld</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">s = <span class="string">&quot;Hello&quot;</span>*<span class="number">3</span>+<span class="string">&quot;World&quot;</span></span><br><span class="line"><span class="built_in">print</span>(s)</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">HelloHelloHelloWorld</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">s = <span class="string">&quot;Hello&quot;</span></span><br><span class="line"><span class="built_in">print</span> (s[<span class="number">1</span>:<span class="number">3</span>])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 包含開頭，不包含結尾！</span></span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">el</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><h3 id="有序列表運算"><a href="#有序列表運算" class="headerlink" title="有序列表運算"></a>有序列表運算</h3><table>
+<thead>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</tbody></table>
+</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">ex = [<span class="number">1</span>,<span class="number">2</span>,<span class="number">5</span>,<span class="number">6</span>]</span><br><span class="line"><span class="built_in">print</span>(ex[<span class="number">2</span>])</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">5</span><br></pre></td></tr></table></figure>
+
+<p><strong>取得列表長度</strong></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">ex = [<span class="number">1</span>,<span class="number">2</span>,<span class="number">5</span>,<span class="number">6</span>]</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">len</span>(ex))</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">4</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="迴圈"><a href="#迴圈" class="headerlink" title="迴圈"></a>迴圈</h3><hr>
+<h3 id="陣列"><a href="#陣列" class="headerlink" title="陣列"></a>陣列</h3><hr>
+<h3 id="IF-條件式"><a href="#IF-條件式" class="headerlink" title="IF 條件式"></a>IF 條件式</h3><hr>
+<h3 id="While"><a href="#While" class="headerlink" title="While"></a>While</h3><hr>
+<h3 id="For"><a href="#For" class="headerlink" title="For"></a>For</h3>]]></content>
+      <categories>
+        <category>教學文</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>APCS 矩陣翻轉</title>
+    <url>/apcs/</url>
+    <content><![CDATA[<div class="note info flat"><h2 id="Zero-Judge-APCS-矩陣翻轉"><a href="#Zero-Judge-APCS-矩陣翻轉" class="headerlink" title="Zero Judge APCS 矩陣翻轉"></a>Zero Judge APCS 矩陣翻轉</h2></div>
+
+<span id="more"></span>
+
+<p><strong><a href="https://zerojudge.tw/ShowProblem?problemid=b965">題目連結</a></strong></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> j, k, step;</span><br><span class="line">    cin &gt;&gt; j &gt;&gt; k &gt;&gt; step;</span><br><span class="line">    <span class="type">int</span> arr[j][k], temp[j][k];</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; j; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> l = <span class="number">0</span>; l &lt; k; l++)</span><br><span class="line">        &#123;</span><br><span class="line">            cin &gt;&gt; arr[i][l];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; step; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> p = <span class="number">0</span>; p &lt; k; p++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> l = <span class="number">0</span>; l &lt; (j + <span class="number">1</span>) / <span class="number">2</span>; l++)</span><br><span class="line">            &#123;</span><br><span class="line">                <span class="built_in">swap</span>(arr[l][p], arr[j - <span class="number">1</span> - l][p]);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; j; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> p = <span class="number">0</span>; p &lt; k; p++)</span><br><span class="line">        &#123;</span><br><span class="line">            temp[i][p] = arr[i][l];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="built_in">swap</span>(j, k);</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; j; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> p = <span class="number">0</span>; p &lt; k; p++)</span><br><span class="line">        &#123;</span><br><span class="line">            temp[i][p] = arr[p][j - i - <span class="number">1</span>];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>解題</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>APCS 2024 1月場</title>
+    <url>/apcs202401/</url>
+    <content><![CDATA[<div class="note danger flat"><h1 id="這次的題目四題只寫兩題…"><a href="#這次的題目四題只寫兩題…" class="headerlink" title="這次的題目四題只寫兩題…"></a>這次的題目四題只寫兩題…</h1><ul>
+<li><ol>
+<li>遊戲選角</li>
+</ol>
+</li>
+<li><ol start="2">
+<li>蜜蜂觀察</li>
+</ol>
+</li>
+</ul>
+</div>
+
+<span id="more"></span>
+
+<h2 id="ZeroJudge-上題目連結"><a href="#ZeroJudge-上題目連結" class="headerlink" title="ZeroJudge 上題目連結"></a>ZeroJudge 上題目連結</h2><p><a href="https://zerojudge.tw/ShowProblem?problemid=m931">遊戲選角</a><br><a href="https://zerojudge.tw/ShowProblem?problemid=m932">蜜蜂觀察</a></p>
+<h2 id="第一題-遊戲選角"><a href="#第一題-遊戲選角" class="headerlink" title="第一題-遊戲選角"></a>第一題-遊戲選角</h2><div class="note info flat"><p>最高效率的完成卻沒有假設特殊狀況…</p>
+</div>
+
+<h3 id="My-Code"><a href="#My-Code" class="headerlink" title="My Code"></a>My Code</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">long</span> <span class="type">long</span> <span class="type">int</span> x, a, b, o;</span><br><span class="line">    <span class="type">int</span> mx = INT_MIN, mxa, mxb, mi = INT_MIN, mia, mib;</span><br><span class="line">    cin &gt;&gt; x;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; x; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        cin &gt;&gt; a &gt;&gt; b;</span><br><span class="line">        o = a * a + b * b;</span><br><span class="line">        <span class="keyword">if</span> (o &gt; mx || i == <span class="number">0</span>)</span><br><span class="line">        &#123;</span><br><span class="line">            mx = o;</span><br><span class="line">            mxa = a;</span><br><span class="line">            mxb = b;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (i == <span class="number">0</span> || o &lt; mx &amp;&amp; o &gt; mi)</span><br><span class="line">        &#123;</span><br><span class="line">            mi = o;</span><br><span class="line">            mia = a;</span><br><span class="line">            mib = b;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    cout &lt;&lt; mia &lt;&lt; <span class="string">&quot; &quot;</span> &lt;&lt; mib;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>上方 code 仍然存在 在存取最大值和第二大值時，會因為輸入進來的順序大小，而造成不該出現的錯誤。<div class="note success flat"><p><strong>此題應該直接套個陣列再利用 sort 排序選取第二值。</strong></p>
+</div></li>
+</ul>
+<p><img src="https://i.imgur.com/PqmjQoM.png" alt="分數全看命運測資"></p>
+<h2 id="第二題-蜜蜂觀察"><a href="#第二題-蜜蜂觀察" class="headerlink" title="第二題-蜜蜂觀察"></a>第二題-蜜蜂觀察</h2><div class="note info flat"><p>以特殊的方式處理字串，沒注意到記憶體區段問題</p>
+</div>
+
+<h3 id="My-Code-1"><a href="#My-Code-1" class="headerlink" title="My Code"></a>My Code</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> m, n, k, g, w;</span><br><span class="line">    cin &gt;&gt; m &gt;&gt; n &gt;&gt; k;</span><br><span class="line">    string arr[m], b[k];</span><br><span class="line">    <span class="type">int</span> h = m - <span class="number">1</span>, l = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; m; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        cin &gt;&gt; arr[i];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> nu = <span class="number">0</span>; nu &lt; k; nu++)</span><br><span class="line">    &#123;</span><br><span class="line">        cin &gt;&gt; w;</span><br><span class="line">        g = <span class="number">-1</span>;</span><br><span class="line">        <span class="keyword">if</span> (w == <span class="number">0</span> &amp;&amp; h - <span class="number">1</span> &gt;= <span class="number">0</span>)</span><br><span class="line">        &#123;</span><br><span class="line">            b[nu] = arr[h - <span class="number">1</span>][l];</span><br><span class="line">            h -= <span class="number">1</span>;</span><br><span class="line">            g = <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="keyword">if</span> (w == <span class="number">1</span> &amp;&amp; l + <span class="number">1</span> &lt; n)</span><br><span class="line">        &#123;</span><br><span class="line">            b[nu] = arr[h][l + <span class="number">1</span>];</span><br><span class="line">            l += <span class="number">1</span>;</span><br><span class="line">            g = <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="keyword">if</span> (w == <span class="number">2</span> &amp;&amp; h + <span class="number">1</span> &lt; m &amp;&amp; l + <span class="number">1</span> &lt; n)</span><br><span class="line">        &#123;</span><br><span class="line">            b[nu] = arr[h + <span class="number">1</span>][l + <span class="number">1</span>];</span><br><span class="line">            h += <span class="number">1</span>;</span><br><span class="line">            l += <span class="number">1</span>;</span><br><span class="line">            g = <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="keyword">if</span> (w == <span class="number">3</span> &amp;&amp; h + <span class="number">1</span> &lt; m)</span><br><span class="line">        &#123;</span><br><span class="line">            b[nu] = arr[h + <span class="number">1</span>][l];</span><br><span class="line">            h -= <span class="number">1</span>;</span><br><span class="line">            g = <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="keyword">if</span> (w == <span class="number">4</span> &amp;&amp; l - <span class="number">1</span> &gt;= <span class="number">0</span>)</span><br><span class="line">        &#123;</span><br><span class="line">            b[nu] = arr[h][l - <span class="number">1</span>];</span><br><span class="line">            l -= <span class="number">1</span>;</span><br><span class="line">            g = <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="keyword">if</span> (w == <span class="number">5</span> &amp;&amp; h - <span class="number">1</span> &gt;= <span class="number">0</span> &amp;&amp; l - <span class="number">1</span> &lt;= <span class="number">0</span>)</span><br><span class="line">        &#123;</span><br><span class="line">            b[nu] = arr[h - <span class="number">1</span>][l - <span class="number">1</span>];</span><br><span class="line">            h -= <span class="number">1</span>;</span><br><span class="line">            l -= <span class="number">1</span>;</span><br><span class="line">            g = <span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> (g == <span class="number">-1</span>)</span><br><span class="line">            b[nu] = arr[h][l];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; k; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        cout &lt;&lt; b[i];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="type">int</span> poi = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span> (<span class="type">int</span> i = <span class="number">0</span>; i &lt; k; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> y = i + <span class="number">1</span>; y &lt; k; y++)</span><br><span class="line">        &#123;</span><br><span class="line">            <span class="keyword">if</span> (b[y] != <span class="string">&quot;no&quot;</span> &amp;&amp; b[y] == b[i])</span><br><span class="line">            &#123;</span><br><span class="line">                poi += <span class="number">1</span>;</span><br><span class="line">                b[y] = <span class="string">&quot;no&quot;</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;\n&quot;</span></span><br><span class="line">         &lt;&lt; k - poi;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<div class="note danger flat"><h2 id="看到這行數就知道為什麼會記憶體區段出問題了吧…"><a href="#看到這行數就知道為什麼會記憶體區段出問題了吧…" class="headerlink" title="看到這行數就知道為什麼會記憶體區段出問題了吧…:&lt;"></a>看到這行數就知道為什麼會記憶體區段出問題了吧…:&lt;</h2></div>
+
+<p><img src="https://i.imgur.com/TJ22Pj6.png" alt="為了想要寫出來不擇手段"></p>
+]]></content>
+      <categories>
+        <category>檢定</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自然探究</title>
+    <url>/%E8%87%AA%E7%84%B6%E6%8E%A2%E7%A9%B6/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="9f270d871413e79d6713144a22c80fa88c154f8e62a2ea2ca4d53ada1e28993a">1ae9fe665b01d0dcd85b0098a19b5bf9e27bcfddc6786c03cad17df8dde8408af9bf0736152123843e6c7c7423826eb10416d3f294e16e5b84015f76037899f6354ff7bcaddd75212cfa4e1feef2b469d0378b59d8febede58a4f8e5b18b66bd30aeca302217ae7b199ba038fe34ef27dfe9c02407c132693ef93cf562054d2389245a6d30031941e0bd58552d7bc01053f72f9f59ad28c42d9331dc3a15b0192d30c5b21c04085a5a7d6219fbfd1c752cc126519268f48d215d370dcc99f9f87c0a5da884a20e05d8767b45d1a2abdf72cb7d48239955364a969b74a43c23d0b3c839554b0a1fc9e52f8b836500c3b8172223b8b6e91cad88981a9e42127ccda679b468fb73a1c4ebaf656a854897de7d60bde43c657cafcfdccc1396eda2dc3017f0d95ed5f384639f2fa391d0661fdb5145934b50b59298f46b048bd29bc8a500dc75fd21d260f12ddf6d591547af8242ad71236a56088ad743e70799772d536d6f3893f1fd599f32021c6c78f56babb5d98ec8a98cd17637fedce27344763c5cfded7682a56b7daba38883b13477fbc5c23058ddb780e266886213d1e79626b168af0deedfaadcf0e10f5deafa0aeb966f8833aa655b68c58e773a26273c603a3cba7707e97fbb9a7a203a2ddffbe76994eb36f957cc43a8c8b17667e9dcbe45247551c3234b1f991f38367ef7ee6cf993737e99f7cdd8c8a8db9bd08630f312fcc685c596e0a512c18076abfcd37678d4101a752cb865325e2c0600181d0c6e412f5786124312a861a9ae0ab1ceae6be6302bab314dcbd95333bbafcf33e1d0335beb7a8d391f85b837c61bdc22bec1fa40e93330b1aa8f10f3220ab58a61dff1e816f2c6fbe8b168fc368ac70f82127c96f5d117f162e75aa05a07ca14c93b5a9ec2beeeedd21ca471eaab747b6be2bd76e29df509c01c81160e4e5dc6005c5d2cd385b516eacfd5db3a31d96dd2348e57733f09a223483dafd739c2a7756ae6ada2ba7c50e5a23747b2dab7ca43f0be9acf0df28195c7a613a157485d43ef8ecbb7703ba22e7ae9a9793bafac0d595895727603f4787e881167d2cc6485b118286aaf1c5d7d9549c1404f674482f6bc865cb9ae026538ce553f8bfd1bfd08872d006421e987f759fe589b3cbe476d11dd88cf90161bccbc0d70ae6ec61f941da49400d2ac7bc9f6b66971cd5f032bb5dc01325adc2d7eb7682af0ed3251d09ab483dee35a2d5669c9be8f7d14c3a4a09526ad7a0cba7ee39b11b3e7f18efd01e180790fec98179dfa4061ea19a82a861cd8e6c29c3e83140e236c995137b346d9e1d84420078783f11afd0dab19ec1c5a33c3636630183502636a744b2ccd0bf6dcd46f69fd706e35b1b6dd54d658dfe6ea8bec2cf61c6cb62cfee56458b24cce76e50a32212c28f5ff611164ee15f0cf5ffbd7827fb68cb977acc0044333b12ef5235a258a7e211b7d240bcca4e28f300811bacdf6b003a5a277a3e58265c968586ae14968cb6f1fa20b7ce741aae88444ed90724456909319a4039bd1f83b50b766313dcc7d7c276d120c01c2af4154bef2a6ed4e996155e30f89718877c2c952ee43196121bccd58c8ce28030752c8c4de9f6c88d56f514474f4d73bdbd3c005ffc91372675b1c92448d4987e44a376df3118fca97bcd0c3566d3e4a812cfdf821faa3cd58c3777ece5beeead078289b5cd03f6025f2ec575c3395b617d32052a44c05ad54be481515c996315b9a9314b960cbcc1cdf414eedaacfbb29ce19bbe42ad778a90db04760b131abdd39cbba740c1b535310971a682bd7f4564a9b84026e4d0050daf4d32f2e2c87cffa2826b3d6362ea2ee2570d1f3143c29ce38a9cc951ade37923e992ea62c067301b17a2484e5cb9130582a94dfb1bc0946329035dc5074725f786e16bbaa6bef28e95b9b82d5fc8e529415395fd20b30e3c73c543ea4387da0821f597171b9b4193b3a31cd2808294756a1f4fe87e4c1a7de4e334ec716614a7088f25fc77a99c882356b73e837264addbd87a01c0982d7e80eda12588439b739825fb43e45925ac3e49938e6a7ae60c4e490cf12ef8721978f9f06ed18dcddb70d8e9254137624c46fb260e81034033314bc77d75e8c2f2636ecb7b65971ae559dd4d4c04d72fa2b8bee8e2e11a333cd7bebe6b3ab9cdbf35abcb50e63229ee5a05b117b33ed3596247027fcfcdaae2be3d36d7ad2ec08cfcba5fc54149020f87e0fe34f6f6ffe33b36a68671ffdb6f219db313a92d76ef046fee5e79d4efb045f292bd96c28b5a6b41ed965476e68a729e30edffa55e8ea3cdbd12ad90e8ec8c13ae8a9f9d098bd70c06421e2bf8b80d75cf1247845b08b4fb138792377bc78458a0357f793acf3e44bbb0bd3e388c31f770864a28617a55afeaf9515f3806d092c581c13f74c5cf51d9727415cb3702ae0d48a81a556976870a742670591c6afef37386ca19d04b7dfac39dd8839f9db1ae125ff734e1642ceada2335e725e91c8bee76b6f5e449af0bbc6104d3b8dcde7c5f89c84133d64e9aede1ceaeb8ca8731a3792ce47158574f747113f7d0780583cfc88e16298db044f84639c69401fa792ac02310ec85d266eb7632ec17567c259a2338d3954d1f238a9e937a704abc6cdc99af258adf9eaed729ac88eb0a233bc6ec1c9d3346d643405e5547dcbb642d3650ec85353bc252b6fe0641bac28f97e171fd7d51313930852af7fca5a2eabd7628a352e678dbd50f9dad0d04b2042353e7fc37af2d86326b628df171345fb337e1eca4fe362f02c614ae167b2178ff8b308fba5db056f2a17219433651fe1eb6c5f3eac8e0b2e57be970858eeeabde8dd77c674a3bb73e13e93bb82347a09e58d29ce4595afb2907ca2046ac2afcc0778ee1023e9e8b3ad7f4866f2fb1e6123e64ca48e74d3c2e77a6ab2c54d0992fefbbc1bc1b1cf908b773821a76ed30d794676671466501c44c0a8e3ad1c80c4c5ff4570759c9b61be91275094d4662245d8ec1ba018c78204cba653a8ee4056f47a175df3e0022700dc937976b0e84b8347acbe53f6647557c700cf4b0d24e41ec09235842aa6003339b4fd3b6a28a34e36ab26ee2ec3abde0e596ccbc262beab86101c3f1080772b8269161b107d23deccb4f7bf4855884c925b7086b8c363919d2bc19fdb6256ad1190077d794198ac28272391f4d14f69aadf5ae3bdfe6489482e78181d3ec489d7b196b49beed9a9ac047bd8b6a134e373f89a33845dc10a7f2ab0f307ce1a877683ef35b5b66cc14d0d368489d914c1739709430d2cbd3f40db8fd9b69f78497d43b2e5cf32912262a9cd36815636a3bcf1cf56132a9e8175381f5e10bda7c44000d900cd7a898939096738c5e9fe0c3fd0f0fcfbc9af255a413fb105549e2b2d83732c571c39b654e441543e0bc713a982ebbf149607c04381de1968c7a59330d3eb782572d1b30d802328c28455a969b2720ab85d7adf249e63af0bd6a791778f61169183c48df11771ce03109f611d6362770d09cf199c9dd16dbd6292edf117a9d3003ceca4892efa3fe722013345372d06a9b7a2dad6d10003112e9892c0c2f05a1f1a87bf18e84b32e3704fee40a09e5e61a01aec05a3a737653f15d742d848df62012b60912f88f6a478b0e572e616af083bf72ad4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">for跟我同組的人</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>學校</category>
+      </categories>
+      <tags>
+        <tag>School</tag>
+      </tags>
+  </entry>
+</search>
